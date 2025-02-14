@@ -1,4 +1,4 @@
-# studentPerformance
+# Student Performance Prediction
 Predicting student performance using factors like study time and attendance
 =======
 # 🎓 Student Performance Prediction
