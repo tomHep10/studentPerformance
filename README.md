@@ -12,7 +12,7 @@ Achieved an **R² score of 0.99**, showing strong predictive accuracy.
 - **Mean Absolute Error (MAE):** 1.83
 - **Mean Squared Error (MSE):** 5.24
 - **R-Squared Score:** 0.99
-- **Prediction Accuracy: 96.05%
+- **Prediction Accuracy:** 96.05%
 
 ## 📂 Files Included
 - `student_performance.ipynb` → Full Python Notebook with **code & analysis**.
