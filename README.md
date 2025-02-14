@@ -1,5 +1,5 @@
 # Student Performance Prediction
-Predicting student performance using factors like study time and attendance
+Predicting student performance using factors like study time and previous scores
 
 ## 📌 Project Overview
 This project uses **linear regression** to predict student performance based on:
