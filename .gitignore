@@ -1,0 +1,8 @@
+student_env/
+
+*.joblib
+*.pkl
+
+data/
+*.csv
+*.zip
